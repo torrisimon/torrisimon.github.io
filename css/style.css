@@ -120,8 +120,7 @@ a, a:hover{
 }
 
 .desciption img {
-	padding: 10px;
-	background: #232323;
+	padding: 0px;
 }
 
 .img { float: left; }
@@ -404,3 +403,5 @@ text-align: center;
 padding: 10px auto;
 color: red;
 }
+
+.contacttable td,tr{padding-bottom: 30px; padding-top: 30px;}
