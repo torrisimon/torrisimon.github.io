@@ -43,7 +43,8 @@ a, a:hover{
 }
 
 .navigation img{
-	padding: 0 20px;
+	padding-left: 0px;
+    padding-right: 40px;
 }
 
 .navigation a, 
@@ -404,4 +405,4 @@ padding: 10px auto;
 color: red;
 }
 
-.contacttable td,tr{padding-bottom: 30px; padding-top: 30px;}
+.contacttable td,tr{padding-bottom: 34px; padding-top: 40px;}
